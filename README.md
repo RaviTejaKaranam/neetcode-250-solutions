@@ -1,4 +1,7 @@
-# NeetCode 250?
+# NeetCode 250 - My Solutions
+
+This repository contains my personal solutions to the [NeetCode 250](https://neetcode.io/practice?tab=neetcode250) challenge — a curated list of essential coding problems to build strong data structures and algorithms skills.
+Each solution is written in JavaScript with clear code and optimal approaches.
 
 **Arrays & Hashing**
 
