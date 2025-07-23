@@ -25,5 +25,7 @@ class Solution {
             }
         }
 
+        return commonPrefix
+
     }
 }
