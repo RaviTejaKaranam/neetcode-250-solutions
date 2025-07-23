@@ -12,5 +12,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | 1929 | Easy | [Concatenation of Array](https://neetcode.io/problems/concatenation-of-array?list=neetcode250) | [Link](./Arrays%20&%20Hashing/01_ConcatenationOfArray.js) |
 | 217 | Easy | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer?list=neetcode250) | [Link](./Arrays%20&%20Hashing/02_ContainsDuplicate.js) |
 | 242 | Easy | [Valid Anagram](https://neetcode.io/problems/is-anagram?list=neetcode250) | [Link](./Arrays%20&%20Hashing/03_ValidAnagram.js) |
+| 1 | Easy | [two Sum](https://neetcode.io/problems/two-integer-sum?list=neetcode250) | [Link](./Arrays%20&%20Hashing/04_TwoSum.js) |
 
 
