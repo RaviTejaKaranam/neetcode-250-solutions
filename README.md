@@ -7,12 +7,13 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 
 ## 🧮 Arrays & Hashing
 
-| LeetCode ID | Difficulty | Problem | Solution |
-|-------------|------------|---------|----------|
-| 1929 | Easy | [Concatenation of Array](https://neetcode.io/problems/concatenation-of-array?list=neetcode250) | [Link](./Arrays%20&%20Hashing/01_ConcatenationOfArray.js) |
-| 217 | Easy | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer?list=neetcode250) | [Link](./Arrays%20&%20Hashing/02_ContainsDuplicate.js) |
-| 242 | Easy | [Valid Anagram](https://neetcode.io/problems/is-anagram?list=neetcode250) | [Link](./Arrays%20&%20Hashing/03_ValidAnagram.js) |
-| 1 | Easy | [Two Sum](https://neetcode.io/problems/two-integer-sum?list=neetcode250) | [Link](./Arrays%20&%20Hashing/04_TwoSum.js) |
-| 14 | Easy | [Longest Common Prefix](https://neetcode.io/problems/longest-common-prefix?list=neetcode250) | [Link](./Arrays%20&%20Hashing/05_LongestCommonPrefix.js) |
-
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Concatenation of Array](https://neetcode.io/problems/concatenation-of-array?list=neetcode250) | [Link](./Arrays%20&%20Hashing/01_ConcatenationOfArray.js) |
+| Easy | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer?list=neetcode250) | [Link](./Arrays%20&%20Hashing/02_ContainsDuplicate.js) |
+| Easy | [Valid Anagram](https://neetcode.io/problems/is-anagram?list=neetcode250) | [Link](./Arrays%20&%20Hashing/03_ValidAnagram.js) |
+| Easy | [Two Sum](https://neetcode.io/problems/two-integer-sum?list=neetcode250) | [Link](./Arrays%20&%20Hashing/04_TwoSum.js) |
+| Easy | [Longest Common Prefix](https://neetcode.io/problems/longest-common-prefix?list=neetcode250) | [Link](./Arrays%20&%20Hashing/05_LongestCommonPrefix.js) |
+| Medium | [Group Anagrams](https://neetcode.io/problems/anagram-groups?list=neetcode250) | [Link](./Arrays%20&%20Hashing/06_GroupAnagrams.js) |
+| Easy | [Remove Element](https://neetcode.io/problems/remove-element?list=neetcode250) | [Link](./Arrays%20&%20Hashing/07_RemoveElement.js) |
 
