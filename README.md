@@ -18,4 +18,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Remove Element](https://neetcode.io/problems/remove-element?list=neetcode250) | [Link](./Arrays%20&%20Hashing/07_RemoveElement.js) |
 | Easy | [Majority Element](https://neetcode.io/problems/majority-element?list=neetcode250) | [Link](./Arrays%20&%20Hashing/08_MajorityElement.js) |
 | Easy | [Design Hashset](https://neetcode.io/problems/design-hashset?list=neetcode250) | [Link](./Arrays%20&%20Hashing/09_MyHashSet.js) |
+| Easy | [Design HashMap](https://neetcode.io/problems/design-hashmap?list=neetcode250) | [Link](./Arrays%20&%20Hashing/10_DesignHashmap.js) |
+| Easy | [Sort An Array](https://neetcode.io/problems/sort-an-array?list=neetcode250) | [Link](./Arrays%20&%20Hashing/11_SortAnArray.js) |
 
