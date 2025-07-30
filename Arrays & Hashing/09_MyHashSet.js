@@ -1,7 +1,6 @@
 class MyHashSet {
     constructor() {
-        //Initalaize a new object/ hash map
-        this.newHashSet = {}
+        this.hashSet = new Array(1000001).fill(false)
     }
 
     /**
@@ -9,9 +8,7 @@ class MyHashSet {
      * @return {void}
      */
     add(key) {
-        //Add 1 if the key already exists or set it to 1 if it does not exist in the object
-        this.newHashSet[key] = (this.newHashSet[key] || 0) + 1
-        return null
+        this.hashSet[key] = true
     }
 
     /**
@@ -19,9 +16,7 @@ class MyHashSet {
      * @return {void}
      */
     remove(key) {
-        // delete the key
-        delete this.newHashSet[key]
-        return null
+        this.hashSet[key] = false
     }
 
     /**
@@ -29,11 +24,7 @@ class MyHashSet {
      * @return {boolean}
      */
     contains(key) {
-        //Check if the key exists and return the appropriate value
-        if(this.newHashSet[key]){
-            return true
-        }
-        return false
+        return this.hashSet[key]
     }
 }
 
