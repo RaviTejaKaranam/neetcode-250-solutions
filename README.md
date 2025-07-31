@@ -22,4 +22,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Sort An Array](https://neetcode.io/problems/sort-an-array?list=neetcode250) | [Link](./Arrays%20&%20Hashing/11_SortAnArray.js) |
 | Medium | [Sort Colors](https://neetcode.io/problems/sort-colors?list=neetcode250) | [Link](./Arrays%20&%20Hashing/12_SortColors.js) |
 | Medium | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode250) | [Link](./Arrays%20&%20Hashing/13_TopKFrequentElements.js) |
+| Medium | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode?list=neetcode250) | [Link](./Arrays%20&%20Hashing/14_EncodeAndDecodeStrings.js) |
 
