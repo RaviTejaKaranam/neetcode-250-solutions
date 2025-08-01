@@ -23,4 +23,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Sort Colors](https://neetcode.io/problems/sort-colors?list=neetcode250) | [Link](./Arrays%20&%20Hashing/12_SortColors.js) |
 | Medium | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode250) | [Link](./Arrays%20&%20Hashing/13_TopKFrequentElements.js) |
 | Medium | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode?list=neetcode250) | [Link](./Arrays%20&%20Hashing/14_EncodeAndDecodeStrings.js) |
+| Medium | [Range Sum Query 2D Immutable](https://neetcode.io/problems/range-sum-query-2d-immutable?list=neetcode250) | [Link](./Arrays%20&%20Hashing/15_RangeSumQuery2DImmutable.js) |
+| Medium | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self?list=neetcode250) | [Link](./Arrays%20&%20Hashing/16_ProductsOfArrayExceptSelf.js) |
 
