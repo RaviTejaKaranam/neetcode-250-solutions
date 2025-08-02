@@ -25,4 +25,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode?list=neetcode250) | [Link](./Arrays%20&%20Hashing/14_EncodeAndDecodeStrings.js) |
 | Medium | [Range Sum Query 2D Immutable](https://neetcode.io/problems/range-sum-query-2d-immutable?list=neetcode250) | [Link](./Arrays%20&%20Hashing/15_RangeSumQuery2DImmutable.js) |
 | Medium | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self?list=neetcode250) | [Link](./Arrays%20&%20Hashing/16_ProductsOfArrayExceptSelf.js) |
-
+| Medium | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku?list=neetcode250) | [Link](./Arrays%20&%20Hashing/17_ValidSudoku.js) |
+| Medium | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode250) | [Link](./Arrays%20&%20Hashing/18_LongestConsecutiveSequence.js) |
