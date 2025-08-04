@@ -27,3 +27,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self?list=neetcode250) | [Link](./Arrays%20&%20Hashing/16_ProductsOfArrayExceptSelf.js) |
 | Medium | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku?list=neetcode250) | [Link](./Arrays%20&%20Hashing/17_ValidSudoku.js) |
 | Medium | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode250) | [Link](./Arrays%20&%20Hashing/18_LongestConsecutiveSequence.js) |
+| Medium | [Best Time to Buy and Sell Stock II](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii?list=neetcode250) | [Link](./Arrays%20&%20Hashing/19_BestTimeToBuyAndSellStockII.js) |
+| Medium | [Majority Element II](https://neetcode.io/problems/majority-element-ii?list=neetcode250) | [Link](./Arrays%20&%20Hashing/20_MajorityElementII.js) |
