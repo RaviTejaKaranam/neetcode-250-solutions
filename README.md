@@ -29,3 +29,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode250) | [Link](./Arrays%20&%20Hashing/18_LongestConsecutiveSequence.js) |
 | Medium | [Best Time to Buy and Sell Stock II](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii?list=neetcode250) | [Link](./Arrays%20&%20Hashing/19_BestTimeToBuyAndSellStockII.js) |
 | Medium | [Majority Element II](https://neetcode.io/problems/majority-element-ii?list=neetcode250) | [Link](./Arrays%20&%20Hashing/20_MajorityElementII.js) |
+| Medium | [Subarray Sum Equals K](https://neetcode.io/problems/subarray-sum-equals-k?list=neetcode250) | [Link](./Arrays%20&%20Hashing/21_SubarraySumEqualsK.js) |
+| Medium | [First Missing Positive](https://neetcode.io/problems/first-missing-positive?list=neetcode250) | [Link](./Arrays%20&%20Hashing/22_FirstMissingPositive.js) |
