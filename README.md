@@ -31,3 +31,12 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Majority Element II](https://neetcode.io/problems/majority-element-ii?list=neetcode250) | [Link](./Arrays%20&%20Hashing/20_MajorityElementII.js) |
 | Medium | [Subarray Sum Equals K](https://neetcode.io/problems/subarray-sum-equals-k?list=neetcode250) | [Link](./Arrays%20&%20Hashing/21_SubarraySumEqualsK.js) |
 | Hard | [First Missing Positive](https://neetcode.io/problems/first-missing-positive?list=neetcode250) | [Link](./Arrays%20&%20Hashing/22_FirstMissingPositive.js) |
+
+
+## 👣 Two Pointers
+
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Reverse String](https://neetcode.io/problems/reverse-string?list=neetcode250) | [Link](./Two%20Pointers/01_ReverseString.js) |
+| Easy | [Valid Palindrome](https://neetcode.io/problems/is-palindrome?list=neetcode250) | [Link](./Two%20Pointers/02_ValidPalindrome.js) |
+
