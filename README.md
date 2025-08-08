@@ -39,4 +39,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 |------------|---------|----------|
 | Easy | [Reverse String](https://neetcode.io/problems/reverse-string?list=neetcode250) | [Link](./Two%20Pointers/01_ReverseString.js) |
 | Easy | [Valid Palindrome](https://neetcode.io/problems/is-palindrome?list=neetcode250) | [Link](./Two%20Pointers/02_ValidPalindrome.js) |
+| Easy | [Valid Palindrome II](https://neetcode.io/problems/valid-palindrome-ii?list=neetcode250) | [Link](./Two%20Pointers/03_ValidPalindromeII.js) |
+| Easy | [Merge Strings Alternately](https://neetcode.io/problems/merge-strings-alternately?list=neetcode250) | [Link](./Two%20Pointers/04_MergeStringsAlternately.js) |
 
