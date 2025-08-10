@@ -41,4 +41,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Valid Palindrome](https://neetcode.io/problems/is-palindrome?list=neetcode250) | [Link](./Two%20Pointers/02_ValidPalindrome.js) |
 | Easy | [Valid Palindrome II](https://neetcode.io/problems/valid-palindrome-ii?list=neetcode250) | [Link](./Two%20Pointers/03_ValidPalindromeII.js) |
 | Easy | [Merge Strings Alternately](https://neetcode.io/problems/merge-strings-alternately?list=neetcode250) | [Link](./Two%20Pointers/04_MergeStringsAlternately.js) |
-
+| Easy | [Merge Sorted Array](https://neetcode.io/problems/merge-sorted-array?list=neetcode250) | [Link](./Two%20Pointers/05_MergeSortedArray.js) |
+| Easy | [Remove Duplicates From Sorted Array](https://neetcode.io/problems/remove-duplicates-from-sorted-array?list=neetcode250) | [Link](./Two%20Pointers/06_RemoveDuplicatesFromSortedArray.js) |
+| Medium | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii?list=neetcode250) | [Link](./Two%20Pointers/07_TwoIntegerSumII.js) |
