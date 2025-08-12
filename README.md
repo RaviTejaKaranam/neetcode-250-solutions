@@ -45,3 +45,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Remove Duplicates From Sorted Array](https://neetcode.io/problems/remove-duplicates-from-sorted-array?list=neetcode250) | [Link](./Two%20Pointers/06_RemoveDuplicatesFromSortedArray.js) |
 | Medium | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii?list=neetcode250) | [Link](./Two%20Pointers/07_TwoIntegerSumII.js) |
 | Medium | [3Sum](https://neetcode.io/problems/three-integer-sum?list=neetcode250) | [Link](./Two%20Pointers/08_3Sum.js) |
+| Medium | [4Sum](https://neetcode.io/problems/4sum?list=neetcode250) | [Link](./Two%20Pointers/09_4Sum.js) |
+| Medium | [Rotate Array](https://neetcode.io/problems/rotate-array?list=neetcode250) | [Link](./Two%20Pointers/10_RotateArray.js) |
