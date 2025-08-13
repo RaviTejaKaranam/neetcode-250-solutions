@@ -47,3 +47,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [3Sum](https://neetcode.io/problems/three-integer-sum?list=neetcode250) | [Link](./Two%20Pointers/08_3Sum.js) |
 | Medium | [4Sum](https://neetcode.io/problems/4sum?list=neetcode250) | [Link](./Two%20Pointers/09_4Sum.js) |
 | Medium | [Rotate Array](https://neetcode.io/problems/rotate-array?list=neetcode250) | [Link](./Two%20Pointers/10_RotateArray.js) |
+| Medium | [Container With Most Water](https://neetcode.io/problems/max-water-container?list=neetcode250) | [Link](./Two%20Pointers/11_ContainerWithMostWater.js) |
+| Medium | [Boats to Save People](https://neetcode.io/problems/boats-to-save-people?list=neetcode250) | [Link](./Two%20Pointers/12_BoatstoSavePeople.js) |
