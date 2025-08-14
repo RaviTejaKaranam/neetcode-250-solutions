@@ -49,3 +49,11 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Rotate Array](https://neetcode.io/problems/rotate-array?list=neetcode250) | [Link](./Two%20Pointers/10_RotateArray.js) |
 | Medium | [Container With Most Water](https://neetcode.io/problems/max-water-container?list=neetcode250) | [Link](./Two%20Pointers/11_ContainerWithMostWater.js) |
 | Medium | [Boats to Save People](https://neetcode.io/problems/boats-to-save-people?list=neetcode250) | [Link](./Two%20Pointers/12_BoatstoSavePeople.js) |
+| Hard | [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water?list=neetcode250) | [Link](./Two%20Pointers/13_TrappingRainWater.js) |
+
+
+## 📏 Sliding Window
+
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Contains Duplicate II](https://neetcode.io/problems/contains-duplicate-ii?list=neetcode250) | [Link](./Sliding%20Window/01_ContainsDuplicateII.js) |
