@@ -56,3 +56,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Difficulty | Problem | Solution |
 |------------|---------|----------|
 | Easy | [Contains Duplicate II](https://neetcode.io/problems/contains-duplicate-ii?list=neetcode250) | [Link](./Sliding%20Window/01_ContainsDuplicateII.js) |
+| Easy | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode250) | [Link](./Sliding%20Window/02_BestTimetoBuyandSellStock.js) |
+| Medium | [Longest Substring Without Repeating Characters](https://neetcode.io/problems/longest-substring-without-duplicates?list=neetcode250) | [Link](./Sliding%20Window/03_LongestSubstringWithoutRepeatingCharacters.js) |
