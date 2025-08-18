@@ -58,3 +58,7 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Contains Duplicate II](https://neetcode.io/problems/contains-duplicate-ii?list=neetcode250) | [Link](./Sliding%20Window/01_ContainsDuplicateII.js) |
 | Easy | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode250) | [Link](./Sliding%20Window/02_BestTimetoBuyandSellStock.js) |
 | Medium | [Longest Substring Without Repeating Characters](https://neetcode.io/problems/longest-substring-without-duplicates?list=neetcode250) | [Link](./Sliding%20Window/03_LongestSubstringWithoutRepeatingCharacters.js) |
+| Medium | [Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement?list=neetcode250) | [Link](./Sliding%20Window/04_LongestRepeatingCharacterReplacement.js) |
+| Medium | [Permutation in String](https://neetcode.io/problems/permutation-string?list=neetcode250) | [Link](./Sliding%20Window/05_PermutationinString.js) |
+| Medium | [Minimum Size Subarray Sum](https://neetcode.io/problems/minimum-size-subarray-sum?list=neetcode250) | [Link](./Sliding%20Window/06_MinimumSizeSubarraySum.js) |
+| Medium | [Find K Closest Elements](https://neetcode.io/problems/find-k-closest-elements?list=neetcode250) | [Link](./Sliding%20Window/07_FindKClosestElements.js) |
