@@ -62,3 +62,11 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Permutation in String](https://neetcode.io/problems/permutation-string?list=neetcode250) | [Link](./Sliding%20Window/05_PermutationinString.js) |
 | Medium | [Minimum Size Subarray Sum](https://neetcode.io/problems/minimum-size-subarray-sum?list=neetcode250) | [Link](./Sliding%20Window/06_MinimumSizeSubarraySum.js) |
 | Medium | [Find K Closest Elements](https://neetcode.io/problems/find-k-closest-elements?list=neetcode250) | [Link](./Sliding%20Window/07_FindKClosestElements.js) |
+| Hard | [Minimum Window Substring](https://neetcode.io/problems/minimum-window-with-characters?list=neetcode250) | [Link](./Sliding%20Window/08_MinimumWindowSubstring.js) |
+
+
+## 🥞 Stack
+
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Baseball Game](https://neetcode.io/problems/baseball-game?list=neetcode250) | [Link](./Stack/01_BaseballGame.js) |
