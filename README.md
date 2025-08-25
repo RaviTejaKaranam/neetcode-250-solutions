@@ -70,3 +70,7 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Difficulty | Problem | Solution |
 |------------|---------|----------|
 | Easy | [Baseball Game](https://neetcode.io/problems/baseball-game?list=neetcode250) | [Link](./Stack/01_BaseballGame.js) |
+| Easy | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses?list=neetcode250) | [Link](./Stack/02_ValidParentheses.js) |
+| Easy | [Implement Stack Using Queues](https://neetcode.io/problems/implement-stack-using-queues?list=neetcode250) | [Link](./Stack/03_ImplementStackUsingQueues.js) |
+| Easy | [Implement Queue using Stacks](https://neetcode.io/problems/implement-queue-using-stacks?list=neetcode250) | [Link](./Stack/04_ImplementQueueUsingStacks.js) |
+
