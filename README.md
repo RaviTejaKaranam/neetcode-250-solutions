@@ -73,4 +73,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses?list=neetcode250) | [Link](./Stack/02_ValidParentheses.js) |
 | Easy | [Implement Stack Using Queues](https://neetcode.io/problems/implement-stack-using-queues?list=neetcode250) | [Link](./Stack/03_ImplementStackUsingQueues.js) |
 | Easy | [Implement Queue using Stacks](https://neetcode.io/problems/implement-queue-using-stacks?list=neetcode250) | [Link](./Stack/04_ImplementQueueUsingStacks.js) |
+| Medium | [Minimum Stack](https://neetcode.io/problems/minimum-stack?list=neetcode250) | [Link](./Stack/05_MinimumStack.js) |
+| Medium | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation?list=neetcode250) | [Link](./Stack/06_EvaluateReversePolishNotation.js) |
 
