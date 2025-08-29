@@ -75,4 +75,8 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Implement Queue using Stacks](https://neetcode.io/problems/implement-queue-using-stacks?list=neetcode250) | [Link](./Stack/04_ImplementQueueUsingStacks.js) |
 | Medium | [Minimum Stack](https://neetcode.io/problems/minimum-stack?list=neetcode250) | [Link](./Stack/05_MinimumStack.js) |
 | Medium | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation?list=neetcode250) | [Link](./Stack/06_EvaluateReversePolishNotation.js) |
+| Medium | [Generate Parentheses](https://neetcode.io/problems/generate-parentheses?list=neetcode250) | [Link](./Stack/07_GenerateParentheses.js) |
+| Medium | [Asteroid Collision](https://neetcode.io/problems/asteroid-collision?list=neetcode250) | [Link](./Stack/08_AsteroidCollision.js) |
+| Medium | [Daily Temperatures](https://neetcode.io/problems/daily-temperatures?list=neetcode250) | [Link](./Stack/09_DailyTemperatures.js) |
+| Medium | [Online Stock Span](https://neetcode.io/problems/online-stock-span?list=neetcode250) | [Link](./Stack/10_OnlineStockSpan.js) |
 
