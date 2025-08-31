@@ -79,4 +79,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Asteroid Collision](https://neetcode.io/problems/asteroid-collision?list=neetcode250) | [Link](./Stack/08_AsteroidCollision.js) |
 | Medium | [Daily Temperatures](https://neetcode.io/problems/daily-temperatures?list=neetcode250) | [Link](./Stack/09_DailyTemperatures.js) |
 | Medium | [Online Stock Span](https://neetcode.io/problems/online-stock-span?list=neetcode250) | [Link](./Stack/10_OnlineStockSpan.js) |
+| Medium | [Car Fleet](https://neetcode.io/problems/car-fleet?list=neetcode250) | [Link](./Stack/11_CarFleet.js) |
+| Medium | [Simplify Path](https://neetcode.io/problems/simplify-path?list=neetcode250) | [Link](./Stack/12_SimplifyPath.js) |
 
