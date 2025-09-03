@@ -82,5 +82,13 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Car Fleet](https://neetcode.io/problems/car-fleet?list=neetcode250) | [Link](./Stack/11_CarFleet.js) |
 | Medium | [Simplify Path](https://neetcode.io/problems/simplify-path?list=neetcode250) | [Link](./Stack/12_SimplifyPath.js) |
 | Medium | [Decode String](https://neetcode.io/problems/decode-string?list=neetcode250) | [Link](./Stack/13_DecodeString.js) |
-| Hard | [Simplify Path](https://neetcode.io/problems/maximum-frequency-stack?list=neetcode250) | [Link](./Stack/14_MaximumFrequencyStack.js) |
+| Hard | [Maximum Frequency Stack](https://neetcode.io/problems/maximum-frequency-stack?list=neetcode250) | [Link](./Stack/14_MaximumFrequencyStack.js) |
+| Hard | [Largest Rectangle In Histogram](https://neetcode.io/problems/largest-rectangle-in-histogram?list=neetcode250) | [Link](./Stack/15_LargestRectangleInHistogram.js) |
+
+
+## 🔍 Binary Search
+
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Binary Search](https://neetcode.io/problems/binary-search?list=neetcode250) | [Link](./Binary%20Search/01_BinarySearch.js) |
 
