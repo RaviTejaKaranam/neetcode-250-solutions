@@ -81,4 +81,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Online Stock Span](https://neetcode.io/problems/online-stock-span?list=neetcode250) | [Link](./Stack/10_OnlineStockSpan.js) |
 | Medium | [Car Fleet](https://neetcode.io/problems/car-fleet?list=neetcode250) | [Link](./Stack/11_CarFleet.js) |
 | Medium | [Simplify Path](https://neetcode.io/problems/simplify-path?list=neetcode250) | [Link](./Stack/12_SimplifyPath.js) |
+| Medium | [Decode String](https://neetcode.io/problems/decode-string?list=neetcode250) | [Link](./Stack/13_DecodeString.js) |
+| Hard | [Simplify Path](https://neetcode.io/problems/maximum-frequency-stack?list=neetcode250) | [Link](./Stack/14_MaximumFrequencyStack.js) |
 
