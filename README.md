@@ -91,4 +91,7 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Difficulty | Problem | Solution |
 |------------|---------|----------|
 | Easy | [Binary Search](https://neetcode.io/problems/binary-search?list=neetcode250) | [Link](./Binary%20Search/01_BinarySearch.js) |
+| Easy | [Search Insert Position](https://neetcode.io/problems/search-insert-position?list=neetcode250) | [Link](./Binary%20Search/02_SearcInsertPosition.js) |
+| Easy | [Guess Number Higher Or Lower](https://neetcode.io/problems/guess-number-higher-or-lower?list=neetcode250) | [Link](./Binary%20Search/03_GuessNumberHigherOrLower.js) |
+| Easy | [Sqrt(x)](https://neetcode.io/problems/sqrtx?list=neetcode250) | [Link](./Binary%20Search/04_Sqrt(x).js) |
 
