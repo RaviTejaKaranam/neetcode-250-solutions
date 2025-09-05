@@ -94,4 +94,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Search Insert Position](https://neetcode.io/problems/search-insert-position?list=neetcode250) | [Link](./Binary%20Search/02_SearcInsertPosition.js) |
 | Easy | [Guess Number Higher Or Lower](https://neetcode.io/problems/guess-number-higher-or-lower?list=neetcode250) | [Link](./Binary%20Search/03_GuessNumberHigherOrLower.js) |
 | Easy | [Sqrt(x)](https://neetcode.io/problems/sqrtx?list=neetcode250) | [Link](./Binary%20Search/04_Sqrt(x).js) |
+| Medium | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix?list=neetcode250) | [Link](./Binary%20Search/05_Searcha2DMatrix.js) |
+| Medium | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas?list=neetcode250) | [Link](./Binary%20Search/06_KokoEatingBananas.js) |
 
