@@ -96,4 +96,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Sqrt(x)](https://neetcode.io/problems/sqrtx?list=neetcode250) | [Link](./Binary%20Search/04_Sqrt(x).js) |
 | Medium | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix?list=neetcode250) | [Link](./Binary%20Search/05_Searcha2DMatrix.js) |
 | Medium | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas?list=neetcode250) | [Link](./Binary%20Search/06_KokoEatingBananas.js) |
+| Medium | [Capacity to Ship Packages Within D Days](https://neetcode.io/problems/capacity-to-ship-packages-within-d-days?list=neetcode250) | [Link](./Binary%20Search/07_CapacitytoShipPackagesWithinDDays.js) |
+| Medium | [Find Minimum in Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array?list=neetcode250) | [Link](./Binary%20Search/08_FindMinimuminRotatedSortedArray.js) |
 
