@@ -98,4 +98,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas?list=neetcode250) | [Link](./Binary%20Search/06_KokoEatingBananas.js) |
 | Medium | [Capacity to Ship Packages Within D Days](https://neetcode.io/problems/capacity-to-ship-packages-within-d-days?list=neetcode250) | [Link](./Binary%20Search/07_CapacitytoShipPackagesWithinDDays.js) |
 | Medium | [Find Minimum in Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array?list=neetcode250) | [Link](./Binary%20Search/08_FindMinimuminRotatedSortedArray.js) |
+| Medium | [Search in Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array?list=neetcode250) | [Link](./Binary%20Search/09_SearchinRotatedSortedArray.js) |
+| Medium | [Search in Rotated Sorted Array II](https://neetcode.io/problems/search-in-rotated-sorted-array-ii?list=neetcode250) | [Link](./Binary%20Search/10_SearchinRotatedSortedArrayII.js) |
 
