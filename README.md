@@ -100,4 +100,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Find Minimum in Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array?list=neetcode250) | [Link](./Binary%20Search/08_FindMinimuminRotatedSortedArray.js) |
 | Medium | [Search in Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array?list=neetcode250) | [Link](./Binary%20Search/09_SearchinRotatedSortedArray.js) |
 | Medium | [Search in Rotated Sorted Array II](https://neetcode.io/problems/search-in-rotated-sorted-array-ii?list=neetcode250) | [Link](./Binary%20Search/10_SearchinRotatedSortedArrayII.js) |
+| Medium | [Time Based Key-Value Store](https://www.notion.so/25ca238cb79b80448aa0d8f1aac39ad0?v=25ca238cb79b80978335000c3efc1e06) | [Link](./Binary%20Search/11_TimeBasedKeyValueStore.js) |
+| Hard | [Split Array Largest Sum](https://neetcode.io/problems/split-array-largest-sum?list=neetcode250) | [Link](./Binary%20Search/12_SplitArrayLargestSum.js) |
 
