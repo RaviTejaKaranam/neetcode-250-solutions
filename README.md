@@ -104,3 +104,10 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Hard | [Split Array Largest Sum](https://neetcode.io/problems/split-array-largest-sum?list=neetcode250) | [Link](./Binary%20Search/12_SplitArrayLargestSum.js) |
 | Hard | [Find in Mountain Array](https://neetcode.io/problems/find-in-mountain-array?list=neetcode250) | [Link](./Binary%20Search/14_FindinMountainArray.js) |
 
+## 🔗 Linked List
+
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list?list=neetcode250) | [Link](./Linked%20List/01_ReverseLinkedList.js) |
+| Easy | [Merge Two Sorted Linked Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists?list=neetcode250) | [Link](./Linked%20List/02_MergeTwoSortedLinkedLists.js) |
+
