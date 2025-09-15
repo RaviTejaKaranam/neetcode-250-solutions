@@ -110,4 +110,8 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 |------------|---------|----------|
 | Easy | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list?list=neetcode250) | [Link](./Linked%20List/01_ReverseLinkedList.js) |
 | Easy | [Merge Two Sorted Linked Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists?list=neetcode250) | [Link](./Linked%20List/02_MergeTwoSortedLinkedLists.js) |
+| Easy | [Linked List Cycle Detection](https://neetcode.io/problems/linked-list-cycle-detection?list=neetcode250) | [Link](./Linked%20List/03_LinkedListCycleDetection.js) |
+| Medium | [Reorder Linked List](https://neetcode.io/problems/reorder-linked-list?list=neetcode250) | [Link](./Linked%20List/04_ReorderLinkedList.js) |
+| Medium | [Remove Node From End of Linked List](https://neetcode.io/problems/remove-node-from-end-of-linked-list?list=neetcode250) | [Link](./Linked%20List/05_RemoveNodeFromEndofLinkedList.js) |
+| Medium | [Copy Linked List with Random Pointer](https://neetcode.io/problems/copy-linked-list-with-random-pointer?list=neetcode250) | [Link](./Linked%20List/06_CopyLinkedListwithRandomPointer.js) |
 
