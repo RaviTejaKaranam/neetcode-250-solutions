@@ -120,6 +120,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 
 | Difficulty | Problem | Solution |
 |------------|---------|----------|
-| Easy | [Lowest Common Ancestor in Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/10_LowestCommonAncestorinBinarySearchTree.js) |
-| Easy | [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/11_InsertintoaBinarySearchTree.js) |
+| Medium | [Lowest Common Ancestor in Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/10_LowestCommonAncestorinBinarySearchTree.js) |
+| Medium | [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/11_InsertintoaBinarySearchTree.js) |
 
