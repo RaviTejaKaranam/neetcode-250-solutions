@@ -114,6 +114,12 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Reorder Linked List](https://neetcode.io/problems/reorder-linked-list?list=neetcode250) | [Link](./Linked%20List/04_ReorderLinkedList.js) |
 | Medium | [Remove Node From End of Linked List](https://neetcode.io/problems/remove-node-from-end-of-linked-list?list=neetcode250) | [Link](./Linked%20List/05_RemoveNodeFromEndofLinkedList.js) |
 | Medium | [Copy Linked List with Random Pointer](https://neetcode.io/problems/copy-linked-list-with-random-pointer?list=neetcode250) | [Link](./Linked%20List/06_CopyLinkedListwithRandomPointer.js) |
+| Medium | [Add Two Numbers](https://neetcode.io/problems/add-two-numbers?list=neetcode250) | [Link](./Linked%20List/07_AddTwoNumbers.js) |
+| Medium | [Find the Duplicate Number](https://neetcode.io/problems/find-duplicate-integer?list=neetcode250) | [Link](./Linked%20List/08_FindtheDuplicateNumber.js) |
+| Medium | [Reverse Linked List II](https://neetcode.io/problems/reverse-linked-list-ii?list=neetcode250) | [Link](./Linked%20List/09_ReverseLinkedListII.js) |
+| Medium | [Design Circular Queue](https://neetcode.io/problems/design-circular-queue?list=neetcode250) | [Link](./Linked%20List/10_DesignCircularQueue.js) |
+| Medium | [LRU Cache](https://neetcode.io/problems/lru-cache?list=neetcode250) | [Link](./Linked%20List/11_LRUCache.js) |
+
 
 
 ## 🌳 Binary Trees
