@@ -115,3 +115,11 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Remove Node From End of Linked List](https://neetcode.io/problems/remove-node-from-end-of-linked-list?list=neetcode250) | [Link](./Linked%20List/05_RemoveNodeFromEndofLinkedList.js) |
 | Medium | [Copy Linked List with Random Pointer](https://neetcode.io/problems/copy-linked-list-with-random-pointer?list=neetcode250) | [Link](./Linked%20List/06_CopyLinkedListwithRandomPointer.js) |
 
+
+## 🌳 Binary Trees
+
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Lowest Common Ancestor in Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/10_LowestCommonAncestorinBinarySearchTree.js) |
+| Easy | [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/11_InsertintoaBinarySearchTree.js) |
+
