@@ -131,5 +131,7 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Binary Tree Inorder Traversal](https://neetcode.io/problems/binary-tree-inorder-traversal?list=neetcode250) | [Link](./Binary%20Tree/01_BinaryTreeInorderTraversal.js) |
 | Easy | [Binary Tree Preorder Traversal](https://neetcode.io/problems/binary-tree-preorder-traversal/question?list=neetcode250) | [Link](./Binary%20Tree/02_BinaryTreePreOrderTraversal.js) |
 | Easy | [Binary Tree Postorder Traversal](https://neetcode.io/problems/binary-tree-postorder-traversal/question?list=neetcode250) | [Link](./Binary%20Tree/03_BinaryTreePostorderTraversal.js) |
+| Easy | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/04_InvertBinaryTree.js) |
+| Easy | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/05_MaximumDepthofBinaryTree.js) |
 | Easy | [Same Binary Tree](https://neetcode.io/problems/same-binary-tree?list=neetcode250) | [Link](./Binary%20Tree/08_SameBinaryTree.js) |
 
