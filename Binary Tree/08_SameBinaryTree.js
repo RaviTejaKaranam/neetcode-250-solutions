@@ -16,25 +16,23 @@ class Solution {
      * @return {boolean}
      */
     isSameTree(p, q) {
-        const queue1 = [p]
-        const queue2 = [q]
-
-        while(queue1.length && queue2.length){
-            const node1 = queue1.shift()
-            const node2 = queue2.shift()
-
-            if(node1 === null && node2 === null){
-                continue
-            }
-
-            if(node1 === null || node2 === null || node1.val !== node2.val){
+        const helper = (nodeP, nodeQ) => {
+            if((!nodeP && nodeQ) || (nodeP && !nodeQ)){
                 return false
             }
+            if(!nodeP && !nodeQ) return true;
 
-            queue1.push(node1.left, node1.right)
-            queue2.push(node2.left, node2.right)
+            if(nodeP.val !== nodeQ.val) return false;
+
+            let leftCheck = helper(nodeP.left, nodeQ.left);
+            if(leftCheck === false) return false;
+
+            let rightCheck = helper(nodeP.right, nodeQ.right);
+            if(rightCheck === false) return false;
+
+            return true;
         }
 
-        return true
+        return helper(p, q);
     }
 }
