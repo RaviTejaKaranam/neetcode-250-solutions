@@ -136,4 +136,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Diameter of Binary Tree](https://neetcode.io/problems/binary-tree-diameter/question?list=neetcode250) | [Link](./Binary%20Tree/06_DiameterofBinaryTree.js) |
 | Easy | [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/07_BalancedBinaryTree.js) |
 | Easy | [Same Binary Tree](https://neetcode.io/problems/same-binary-tree?list=neetcode250) | [Link](./Binary%20Tree/08_SameBinaryTree.js) |
+| Easy | [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/09_SubtreeOfAnotherTree.js) |
 
