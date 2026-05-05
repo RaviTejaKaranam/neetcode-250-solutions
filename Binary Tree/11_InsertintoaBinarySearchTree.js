@@ -15,25 +15,24 @@ class Solution {
      * @return {TreeNode}
      */
     insertIntoBST(root, val) {
-        if(!root){
-            const root = new TreeNode(val)
-            return root
+        if(!root) {
+            return new TreeNode(val);
         }
-        let curr = root
-        while(true){
-            if(val > curr.val){
-                if(!curr.right){
-                    curr.right = new TreeNode(val)
-                    return root
-                }
-                curr = curr.right
+        let node = root;
+        while(node){
+            if(val > node.val && node.right){
+                node = node.right;
             }
-            else{
-                if(!curr.left){
-                    curr.left = new TreeNode(val)
-                    return root
-                }
-                curr = curr.left
+            else if(val > node.val && !node.right){
+                node.right = new TreeNode(val);
+                return root;
+            }
+            else if(val < node.val && node.left){
+                node = node.left;
+            }
+            else {
+                node.left = new TreeNode(val);
+                return root;
             }
         }
     }
