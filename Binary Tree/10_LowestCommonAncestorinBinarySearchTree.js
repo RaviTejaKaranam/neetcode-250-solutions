@@ -17,18 +17,18 @@ class Solution {
      * @return {TreeNode}
      */
     lowestCommonAncestor(root, p, q) {
-        let curr = root
-        while(true){
-            if(p.val < curr.val && q.val < curr.val){
-                curr = curr.left
+        let node = root;
+
+        while(node){
+            if(p.val < node.val && q.val < node.val){
+                node = node.left;
             }
-            else if(p.val > curr.val && q.val > curr.val){
-                curr = curr.right
+            else if(p.val > node.val && q.val > node.val){
+                node = node.right;
             }
             else{
-                return curr
+                return node;
             }
         }
-        
     }
 }
