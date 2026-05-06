@@ -137,4 +137,6 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Easy | [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/09_SubtreeOfAnotherTree.js) |
 | Medium | [Lowest Common Ancestor in Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/10_LowestCommonAncestorinBinarySearchTree.js) |
 | Medium | [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/11_InsertintoaBinarySearchTree.js) |
+| Medium | [Delete Node in a BST](https://neetcode.io/problems/delete-node-in-a-bst/question?list=neetcode250) | [Link](./Binary%20Tree/12_DeleteNodeInABST.js) |
+| Medium | [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/13_BinaryTreeLevelOrderTraversal.js) |
 
