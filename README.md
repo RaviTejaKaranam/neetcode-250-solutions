@@ -139,4 +139,7 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree?list=neetcode250) | [Link](./Binary%20Tree/11_InsertintoaBinarySearchTree.js) |
 | Medium | [Delete Node in a BST](https://neetcode.io/problems/delete-node-in-a-bst/question?list=neetcode250) | [Link](./Binary%20Tree/12_DeleteNodeInABST.js) |
 | Medium | [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/13_BinaryTreeLevelOrderTraversal.js) |
+| Medium | [Binary Tree Right Side View](https://neetcode.io/problems/binary-tree-right-side-view/question?list=neetcode250) | [Link](./Binary%20Tree/14_BinaryTreeRightSideView.js) |
+| Medium | [Construct Quad Tree](https://neetcode.io/problems/construct-quad-tree/question?list=neetcode250) | [Link](./Binary%20Tree/15_ConstructQuadTree.js) |
+
 
