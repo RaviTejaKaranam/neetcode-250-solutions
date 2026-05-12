@@ -141,6 +141,8 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/13_BinaryTreeLevelOrderTraversal.js) |
 | Medium | [Binary Tree Right Side View](https://neetcode.io/problems/binary-tree-right-side-view/question?list=neetcode250) | [Link](./Binary%20Tree/14_BinaryTreeRightSideView.js) |
 | Medium | [Construct Quad Tree](https://neetcode.io/problems/construct-quad-tree/question?list=neetcode250) | [Link](./Binary%20Tree/15_ConstructQuadTree.js) |
+| Medium | [Count Good Nodes in Binary Tree](https://neetcode.io/problems/count-good-nodes-in-binary-tree/question?list=neetcode250) | [Link](./Binary%20Tree/20_CountGoodNodesInBinaryTree.js) |
+| Medium | [Valid Binary Search Tree](https://neetcode.io/problems/valid-binary-search-tree/question?list=neetcode250) | [Link](./Binary%20Tree/21_ValidBinarySearchTree.js) |
 | Medium | [Kth Smallest Integer in BST](https://neetcode.io/problems/kth-smallest-integer-in-bst/question?list=neetcode250) | [Link](./Binary%20Tree/16_KthSmallestIntegerinBST.js) |
 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question) | [Link](./Binary%20Tree/17_ConstructBinaryTreefromPreorderandInorderTraversal.js) |
 | Medium | [House Robber III](https://neetcode.io/problems/house-robber-iii/question?list=neetcode250) | [Link](./Binary%20Tree/18_HouseRobber.js) |
