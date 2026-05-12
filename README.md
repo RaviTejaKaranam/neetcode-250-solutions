@@ -143,5 +143,7 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Construct Quad Tree](https://neetcode.io/problems/construct-quad-tree/question?list=neetcode250) | [Link](./Binary%20Tree/15_ConstructQuadTree.js) |
 | Medium | [Kth Smallest Integer in BST](https://neetcode.io/problems/kth-smallest-integer-in-bst/question?list=neetcode250) | [Link](./Binary%20Tree/16_KthSmallestIntegerinBST.js) |
 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question) | [Link](./Binary%20Tree/17_ConstructBinaryTreefromPreorderandInorderTraversal.js) |
+| Medium | [House Robber III](https://neetcode.io/problems/house-robber-iii/question?list=neetcode250) | [Link](./Binary%20Tree/18_HouseRobber.js) |
+| Medium | [Delete Leaves With a Given Value](https://neetcode.io/problems/delete-leaves-with-a-given-value/question?list=neetcode250) | [Link](./Binary%20Tree/19_DeleteLeavesWithAGivenValue.js) |
 
 
