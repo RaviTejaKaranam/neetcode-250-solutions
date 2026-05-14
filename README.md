@@ -149,3 +149,10 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 | Medium | [Delete Leaves With a Given Value](https://neetcode.io/problems/delete-leaves-with-a-given-value/question?list=neetcode250) | [Link](./Binary%20Tree/19_DeleteLeavesWithAGivenValue.js) |
 
 
+
+## ⛰️ Heaps / Priority Queue
+
+| Difficulty | Problem | Solution |
+|------------|---------|----------|
+| Easy | [Kth Largest Element in a Stream](https://neetcode.io/problems/kth-largest-integer-in-a-stream/question?list=neetcode250) | [Link](./Heap%20%26%20Priority%20Queue%20/01_KthLargestElementInAStream.js) |
+| Easy | [Last Stone Weight](https://neetcode.io/problems/last-stone-weight/question?list=neetcode250) | [Link](./Heap%20%26%20Priority%20Queue%20/02_LastStoneWeight.js) |
