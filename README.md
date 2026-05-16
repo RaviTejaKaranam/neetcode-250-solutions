@@ -156,3 +156,5 @@ Each solution is written in JavaScript with clear code and optimal approaches.
 |------------|---------|----------|
 | Easy | [Kth Largest Element in a Stream](https://neetcode.io/problems/kth-largest-integer-in-a-stream/question?list=neetcode250) | [Link](./Heap%20%26%20Priority%20Queue%20/01_KthLargestElementInAStream.js) |
 | Easy | [Last Stone Weight](https://neetcode.io/problems/last-stone-weight/question?list=neetcode250) | [Link](./Heap%20%26%20Priority%20Queue%20/02_LastStoneWeight.js) |
+| Medium | [K Closest Points to Origin](https://neetcode.io/problems/k-closest-points-to-origin/question?list=neetcode250) | [Link](./Heap%20%26%20Priority%20Queue%20/03_KClosestPointsToOrigin.js) |
+| Medium | [Kth Largest Element in an Array](https://neetcode.io/problems/kth-largest-element-in-an-array/question?list=neetcode250) | [Link](./Heap%20%26%20Priority%20Queue%20/04_KthLargestElementinanArray.js) |
